@@ -1,0 +1,10 @@
+﻿Patient Name,Date of Service,Provider Name,Claim ID,CPT Codes,Primary Insurance,Secondary Insurance,Source of Payment,Amt, Final Amount Collected
+John Doe,4/12/2024 0:00,Dr. Emily Stone,8a9b234f,97110,Harrison Health Co.,Global Assurance Ltd.,Harrison Health Co.,50,50
+Alice Johnson,5/20/2024 0:00,Dr. Mark Lee,b7d2f98c,97110,PrimeCare Solutions,Unified Life Services,Harrison Health Co.,50,50
+Michael White,6/15/2024 0:00,Dr. Rachel Fox,c4f1a2b3,97110,MedPro Health,National Coverage Group,Harrison Health Co.,50,50
+Alice Johnson,5/22/2024 0:00,Dr. Mark Lee,b7d2f98ce,97110,Harrison Health Co.,,Harrison Health Co.,50,50
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Unique Claim Count,Total Amount Collected,Average Amount Collected Per Encounter,,,,,,
+,4,200,50,,,,,,
